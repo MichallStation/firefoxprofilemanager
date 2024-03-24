@@ -1,8 +1,10 @@
 # Firefox Profile Manager
 
+![](./assets/firefox.png)
+
 ## Why
 
-To improve the user-friendliness of the Firefox multiple profile manager on every platform.
+To improve the user-friendliness of the Firefox multiple profile manager on every platform without command line.
 
 ## Usage
 
